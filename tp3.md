@@ -295,7 +295,7 @@ Exercice 2. Gestion des permissions
 
         > `chmod 520 fic`
 
-14. Affichez les droits sur le ~programme~passwd. Que remarquez-vous? En
+14. Affichez les droits sur le _programme_ passwd. Que remarquez-vous? En
     affichant les droits du fichier /etc/passwd, pouvez-vous justifier
     les permissions sur le programme passwd?
 
